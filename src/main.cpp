@@ -64,12 +64,15 @@ void InitGraphics(GLFWwindow*& window) {
 }
 
 void Load() {
-    // Load all game objects
+    // Load all renderable objects into the renderables array
 }
 
 void Render()
 {
-    // Put all rendering objects here
+    // Render eveything in the renderables array
+    for (const auto& renderable : renderables) {
+        renderable.Render();
+    }
 }
 
 void Update(GLFWwindow*& window, double deltaTime) {
