@@ -4,6 +4,7 @@ C:/dev/C++/GLFW Template/build/x64-Debug/CMakeFiles/rebuild_cache.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/CMakeFiles/list_install_components.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/CMakeFiles/install.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/CMakeFiles/install/local.dir
+C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/CMakeFiles/uninstall.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/CMakeFiles/edit_cache.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/CMakeFiles/rebuild_cache.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/CMakeFiles/list_install_components.dir
@@ -16,11 +17,15 @@ C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/src/CMakeFiles/rebuild_ca
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/src/CMakeFiles/list_install_components.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/src/CMakeFiles/install.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/src/CMakeFiles/install/local.dir
+C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/docs/CMakeFiles/edit_cache.dir
+C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/docs/CMakeFiles/rebuild_cache.dir
+C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/docs/CMakeFiles/list_install_components.dir
+C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/docs/CMakeFiles/install.dir
+C:/dev/C++/GLFW Template/build/x64-Debug/external/GLFW/docs/CMakeFiles/install/local.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/glew.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/glew_s.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/glewinfo.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/visualinfo.dir
-C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/uninstall.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/edit_cache.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/rebuild_cache.dir
 C:/dev/C++/GLFW Template/build/x64-Debug/external/GLEW/build/cmake/CMakeFiles/list_install_components.dir
