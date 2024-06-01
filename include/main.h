@@ -13,4 +13,4 @@ void Update(GLFWwindow*& window, double deltaTime);
 void UnLoad();
 void ProcessInput(GLFWwindow* window);
 
-std::vector<Renderable> renderables;
+std::vector<Renderable*> renderables;

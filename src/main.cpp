@@ -71,7 +71,7 @@ void Render()
 {
     // Render eveything in the renderables array
     for (const auto& renderable : renderables) {
-        renderable.Render();
+        renderable->Render();
     }
 }
 
