@@ -4,7 +4,7 @@
 set(PROJECT_NAME GLFW_Template)
 
 # Minimum required CMake version
-cmake_minimum_required(VERSION 3.0)
+cmake_minimum_required(VERSION 3.0...3.29.5)
 
 # Project name and languages
 project(${PROJECT_NAME} LANGUAGES C CXX)
